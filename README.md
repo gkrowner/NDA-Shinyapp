@@ -7,8 +7,8 @@
 链接打开可能需要vpn  
 **演示图片 Screenshots：**  
 ![Screenshot Descriptive Analysis] 
-(https://github.com/gkrowner/NDA-Shinyapp/raw/master/Screenshots/Screen%20Shot%20NDA%20App%201.png)  
+(https://raw.githubusercontent.com/gkrowner/NDA-Shinyapp/master/Screenshots/Screen%20Shot%20NDA%20App%201.png)  
 ![Screenshot Network Analysis] 
-(https://github.com/gkrowner/NDA-Shinyapp/raw/master/Screenshots/Screen%20Shot%20NDA%20App%202.png)  
+https://raw.githubusercontent.com/gkrowner/NDA-Shinyapp/master/Screenshots/Screen%20Shot%20NDA%20App%202.png)  
 ![Screenshot Music Recommendation] 
-(https://github.com/gkrowner/NDA-Shinyapp/raw/master/Screenshots/Screen%20Shot%20NDA%20App%203.png)  
+(https://raw.githubusercontent.com/gkrowner/NDA-Shinyapp/master/Screenshots/Screen%20Shot%20NDA%20App%203.png)  
