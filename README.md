@@ -9,6 +9,6 @@
 ![Screenshot Descriptive Analysis] 
 (https://raw.githubusercontent.com/gkrowner/NDA-Shinyapp/master/Screenshots/Screen%20Shot%20NDA%20App%201.png)  
 ![Screenshot Network Analysis] 
-https://raw.githubusercontent.com/gkrowner/NDA-Shinyapp/master/Screenshots/Screen%20Shot%20NDA%20App%202.png)  
+(https://raw.githubusercontent.com/gkrowner/NDA-Shinyapp/master/Screenshots/Screen%20Shot%20NDA%20App%202.png)  
 ![Screenshot Music Recommendation] 
 (https://raw.githubusercontent.com/gkrowner/NDA-Shinyapp/master/Screenshots/Screen%20Shot%20NDA%20App%203.png)  
